@@ -1,5 +1,5 @@
 
-package activity4;
+package app2c;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ public class Activity4 {
         float hr,gross;
         int thr;
         float sss;
-        float nww = 0;
+        float nww;
         System.out.print("Enter employee Name: ");
         name = sc.nextLine();
         System.out.print("Enter hourly rate: ");
